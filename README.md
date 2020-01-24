@@ -23,6 +23,12 @@ Un ejemplo **Instagram** elimino el boton de tranmisiones en vivo que se encontr
 
 **Tiempo de Retenccion:** Debemos retener la mayor cantidad de tiempo a los consumidores utilizando nuestro servicio por ejemplo si tienes un videojuego debemos hacer que el usuario pase la mayor cantidad de tiempo posible.
 
-**Interacciones:** Un ejemplo **Facebook* utiliza 
+**Interacciones:** Un ejemplo **Facebook** utiliza 
+
+<img src="https://github.com/IDiegoUlises/Ofrecer-un-Servicio-y-Analizar-los-Datos/blob/master/images/emoticon-facebook.gif" width="500" height="100" />
+
+Para conocer cuales son las publicaciones mas populares que son mas interesantes para los usuarios funciona como un calificador para mostrate primero unas publicacion que otras
+
+
 
 **Dependencia de Nuestros Servicio:** Debemos crear una dependencia a los clientes de nuestros servicios ahi que ```mal acostumbrarlos``` a depender de nuestro servicio un  **Ejemplo** en Estados Unidos en la famosa prision de **Alcatraz** que tiene al peligroso criminal **Alkaponi** los presisioneros se bañaban con agua caliente para acostumbrarlo al agua caliente para cuando intentaran escapar nadando no pudieran soporta el frio del mar.
