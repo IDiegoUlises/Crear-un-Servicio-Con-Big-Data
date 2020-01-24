@@ -27,7 +27,7 @@ Un ejemplo **Instagram** elimino el boton de tranmisiones en vivo que se encontr
 
 <img src="https://github.com/IDiegoUlises/Ofrecer-un-Servicio-y-Analizar-los-Datos/blob/master/images/emoticon-facebook.gif" width="500" height="100" />
 
-Para conocer cuales son las publicaciones mas populares que son mas interesantes para los usuarios funciona como un calificador para mostrate primero unas publicacion que otras
+Existe un algortimo que aprende de tus intereses por cada intereccion que presionas este algoritmo aprende de ti para mostraste mejores resultados tu puedes conocer los gustos de tus clientes para ofrecerles productos que les gustan.
 
 
 
