@@ -1,6 +1,6 @@
 # Como Crea un buen producto o servicio
 
-**Buen Nombre:** Si tu nombre del servicio o producto se llama ``Service Web`` pero cambias de ideas lo llamas ```بخير شكرا``` sera dificil para el consumidor acordarse de tu nombre. 
+**Nombre Facil de Pronunciar:** Si tu nombre del servicio o producto se llama ``Service Web`` pero cambias de ideas lo llamas ```بخير شكرا``` sera dificil para el consumidor acordarse de tu nombre. 
 
 **Imagen de Producto o Servicio:** Trata que un producto debe ser diferente al resto para que pueda ser diferenciado por el consumidor un ejemplo cuando realizas una comprar por **Aliexpress** buscas un producto y todos son iguales.
 
