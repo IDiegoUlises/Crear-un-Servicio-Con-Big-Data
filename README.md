@@ -16,13 +16,13 @@
 
 **Redes Sociales:** Facebook y Instagram es utilizado por 8 de 10 personas de la poblacion mundial es decir puedes hacer que todo el planeta entero conozca tu producto o servicio.
 
-**Dependencia de Nuestros Servicio:** Debemos crear una dependencia a los clientes de nuestros servicios ahi que ```mal acostumbrarlos``` a depender de nuestro servicio un  **Ejemplo** en Estados Unidos en la famosa prision de **Alcatraz** que tiene al peligroso criminal **Alkaponi** los presisioneros se bañaban con agua caliente para acostumbrarlo al agua caliente para cuando intentaran escapar nadando no pudieran soporta el frio del mar.
+**Tiempo de Retenccion:** Debemos retener la mayor cantidad de tiempo a los consumidores utilizando nuestro servicio por ejemplo si tienes un videojuego debemos hacer que el usuario pase la mayor cantidad de tiempo posible.
+
+**Dependencia de Nuestros Servicio:** Debemos crear una dependencia a los clientes de nuestros servicios ahi que **acostumbrarlos** a depender de nuestro servicio un  **Ejemplo** en Estados Unidos en la famosa prision de **Alcatraz** que tiene al peligroso criminal **Alkaponi** los presisioneros se bañaban con agua caliente para acostumbrarlo al agua caliente para cuando intentaran escapar nadando no pudieran soporta el frio del mar.
 
 # Como Utilizar los datos para mejorar tu producto o servicio(big data)
 
 Un ejemplo **Instagram** elimino el boton de tranmisiones en vivo que se encontraba en el perfil porque nadie lo usaba tu puedes recolectar los datos que generar tus usuarios para mejorar la calidad de tu servicio.
-
-**Tiempo de Retenccion:** Debemos retener la mayor cantidad de tiempo a los consumidores utilizando nuestro servicio por ejemplo si tienes un videojuego debemos hacer que el usuario pase la mayor cantidad de tiempo posible.
 
 **Interacciones:** Un ejemplo **Facebook** utiliza 
 
