@@ -6,13 +6,13 @@
 
 **Entregar una buena experencia:** Se trata que tu producto puede ser mas caro que todos tus demas competidores tus clientes van elegirte por entregar una experiencia inolvidable **Ejemplo** tu tienes un empresa que realiza **tour** por Francia los turistas no van a preguntar por precio del **Paseo** sino la experiencia que va a ofrecer el viaje, esto tambien se aplica en videojuegos y en productos de comida. 
 
-**Entregar Esclusividad:** Los telefonos de **Huawei** son baratos los del **IPhone** y se venden mucho mas aunque los dos productos hacen exactamente lo mismo aqui no se vende un telefono sino la **esclusividad.** Usted puede aplicar esto en crear un servicio premium esclusivo para que los usuarios se sientan con mas status.
+**Entregar Esclusividad:** Los telefonos de **Huawei** son mas baratos de que un **IPhone** se venden mucho mas aunque los dos productos hacen exactamente lo mismo aqui no se vende un telefono sino la **esclusividad** de un servicio o pruducto.
 
-**Ventajas Competitivas:** Tu eres una empresa que vende servidores que usan una computadora raspberry en caso que usted fabrica el producto puede salir 60 dolares y mandarlo a pedir por **Amazon** puede costar 25 dolares al vender un servicio mas barato que la competencia compite por tener los precio mas bajos otra ventaja es que usted invertir en crear una fabrica para reducir el precio de fabricacion del producto para bajar los costos y tener mayores beneficios.
+**Ventajas Competitivas:** Tu vendes computadores fabricas el producto tiene un valor final de 60 dolares al invertir en mejorar la fabricacion puede reducir el valor a 45 dolares con esto puede obtener mayores beneficios al vender un producto.
 
-**Nicho de Mercado:** Mucha gente piensa que ofrecer un producto o servicio para todo el mundo es lo correcto por lo general esta razon es por que fracasan la mayoria de empresas un **Ejemplo** es **Facebook** que no salio para todo el mundo sino era una red para los universitarios de **Hardvar** pudieran y se centro en sus necesidad que tenia los universitarios luego se fue expandiendo por todo el mundo.
+**Nicho de Mercado:** Ahi que empezar a vender nuestros servicios a un publico reducido y centrarse en esos clientes un **ejemplo** es **Facebook** que era una red para los universitarios de **Hardarvar** pudieran comunicarse y luego se fue expandiendo por el resto del mundo.
 
-**Buena Atencion al Cliente:** Tu puedes utilizar **Whatsap** para que los consumidores puedan comunicarte contigo en el caso que tengan un inconveniente puedas ayudarlo a resolver su problema tambien para responder las dudas. **Ejemplo** en Chile la empresa **Telefonica Movistar** que presta servicios de internet la mayor perdida de sus clientes es porque ofrece una pesima atencion al cliente.
+**Buena Atencion al Cliente:** Puedes utilizar **Whatsap** para que tus consumidores puedas ayudarlo a resolver sus problema **ejemplo** en Chile la empresa **Telefonica Movistar** que presta servicios de internet la mayor perdida de sus clientes es porque ofrece una pesima atencion al cliente.
 
 **Redes Sociales:** Facebook y Instagram es utilizado por 8 de 10 personas de la poblacion mundial es decir puedes hacer que todo el planeta entero conozca tu producto o servicio.
 
