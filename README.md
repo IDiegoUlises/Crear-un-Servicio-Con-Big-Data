@@ -10,9 +10,9 @@
 
 **Ventajas Competitivas:** Tu vendes computadores fabricas el producto tiene un valor final de 60 dolares al invertir en mejorar la fabricacion puede reducir el valor a 45 dolares con esto puede obtener mayores beneficios al vender un producto.
 
-**Nicho de Mercado:** Ahi que empezar a vender nuestros servicios a un publico reducido y centrarse en esos clientes un **ejemplo** es **Facebook** que era una red para los universitarios de **Hardarvar** pudieran comunicarse y luego se fue expandiendo por el resto del mundo.
+**Nicho de Mercado:** Ahi que empezar a vender nuestros servicios a un publico reducido y centrarse en esos clientes un **ejemplo** es **Facebook** que era una red para los universitarios de **Hardarvard** pudieran comunicarse y luego se fue expandiendo por el resto del mundo.
 
-**Buena Atencion al Cliente:** Puedes utilizar **Whatsap** para que tus consumidores puedas ayudarlo a resolver sus problema **ejemplo** en Chile la empresa **Telefonica Movistar** que presta servicios de internet la mayor perdida de sus clientes es porque ofrece una pesima atencion al cliente.
+**Buena Atencion al Cliente:** Puedes utilizar **Whatsap** para que tus consumidores puedas ayudarlo a resolver sus problema un ejemplo en Chile la empresa **Telefonica Movistar** que presta servicios de internet la mayor perdida de sus clientes es porque ofrece una pesima atencion al cliente.
 
 **Redes Sociales:** Facebook y Instagram es utilizado por 8 de 10 personas de la poblacion mundial es decir puedes hacer que todo el planeta entero conozca tu producto o servicio.
 
