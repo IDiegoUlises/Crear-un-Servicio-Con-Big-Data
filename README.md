@@ -1,5 +1,4 @@
-# Ofrecer un buen producto o servicio
-
+# Como Crea un buen producto o servicio
 
 **Buen Nombre:** Si tu nombre del servicio o producto se llama ``Service Web`` pero cambias de ideas lo llamas ```بخير شكرا``` sera dificil para el consumidor acordarse de tu nombre o encontrar tu producto o servicio. 
 
@@ -29,7 +28,8 @@ Un ejemplo **Instagram** elimino el boton de tranmisiones en vivo que se encontr
 
 <img src="https://github.com/IDiegoUlises/Ofrecer-un-Servicio-y-Analizar-los-Datos/blob/master/images/emoticon-facebook.gif" width="500" height="100" />
 
-Existe un algortimo que aprende de tus intereses por cada intereccion que presionas este algoritmo aprende de ti para mostraste mejores resultados tu puedes conocer los gustos de tus clientes para ofrecerles productos que les gustan.
+Tiene un algortimo que aprende de tus intereses por cada intereccion que presionas este algoritmo aprende de ti para mostraste mejores resultados tu puedes conocer los gustos de tus clientes para ofrecerles productos que les gustan.
+
 
 
 
