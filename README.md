@@ -1,10 +1,10 @@
 # Como Crea un buen producto o servicio
 
-**Buen Nombre:** Si tu nombre del servicio o producto se llama ``Service Web`` pero cambias de ideas lo llamas ```بخير شكرا``` sera dificil para el consumidor acordarse de tu nombre o encontrar tu producto o servicio. 
+**Buen Nombre:** Si tu nombre del servicio o producto se llama ``Service Web`` pero cambias de ideas lo llamas ```بخير شكرا``` sera dificil para el consumidor acordarse de tu nombre. 
 
-**Imagen de Producto o Servicio:** Se trata que tu producto debe ser diferente al resto para que pueda ser diferenciado por el consumidor puede ser en ser mas barato tener una mejor calidad **Ejemplo** realizas una comprar por **Aliexpress** buscas un producto ves que todos son iguales.
+**Imagen de Producto o Servicio:** Trata que un producto debe ser diferente al resto para que pueda ser diferenciado por el consumidor un **Ejemplo** cuando realizas una comprar por **Aliexpress** buscas un producto y todos son iguales.
 
-**Entregar una buena experencia:** Trata que un servicio es mas caro que los demas competidores van elegirte ese servicio por la experiencia obtendran **Ejemplo** una empresa que realiza recorridos por Francia los turistas no van a preguntar por precio del recorrido sino la bonita experiencia que va a ofrecer el viaje. 
+**Entregar una buena experencia:** Trata que un servicio es mas caro que los demas competidores van elegirte ese servicio por la experiencia obtendran **ejemplo** una empresa que realiza recorridos por Francia los turistas no van a preguntar por precio del recorrido sino la bonita experiencia que va a ofrecer el viaje. 
 
 **Entregar Esclusividad:** Los telefonos de **Huawei** son mas baratos de que un **IPhone** se venden mucho mas aunque los dos productos hacen exactamente lo mismo aqui no se vende un telefono sino la **esclusividad** de un servicio o pruducto.
 
