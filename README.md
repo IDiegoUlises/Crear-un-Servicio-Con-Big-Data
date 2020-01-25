@@ -16,7 +16,7 @@
 
 **Redes Sociales:** Facebook y Instagram es utilizado por 8 de 10 personas de la poblacion mundial es decir puedes hacer que todo el planeta entero conozca tu producto o servicio.
 
-**Tiempo de Retenccion:** Debemos retener la mayor cantidad de tiempo a los consumidores utilizando nuestro servicio por ejemplo si tienes un videojuego debemos hacer que un cliente este la mayor cantidad de tiempo.
+**Tiempo de Retenccion:** Debemos retener la mayor cantidad de tiempo a los consumidores utilizando nuestro servicio por ejemplo si tienes un videojuego debemos hacer que un jugador este la mayor cantidad de tiempo.
 
 **Dependencia de Nuestros Servicio:** Debemos crear una dependencia a los clientes de nuestros servicios ahi que **acostumbrarlos** a depender de nuestro servicio un  **Ejemplo**  la prision **Alcatraz** los presisioneros se bañaban con **agua caliente** para cuando intentaran escapar nadando no pudieran soporta el frio del mar.
 
