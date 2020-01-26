@@ -41,7 +41,7 @@ Un sesgo cognitivo es un efecto psicológico que produce una desviación en el p
 * Una pizza se corta en rebanadas iguales porque genera incomidad que los demas trozos no sean iguales
 * Los semaforos tienen un boton unutil que sirven para al presionar las personas pueden aliviar su estres
 
-**Sesgo Cognitivo en Whatasap**
+## Sesgo Cognitivo en Whatasap
 
 <img src="https://github.com/IDiegoUlises/Crear-un-Servicio-Con-Big-Data/blob/master/images/incomidad.jpg" width="600" height="400" />
 
