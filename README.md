@@ -32,6 +32,17 @@ Un ejemplo **Instagram** elimino el boton de tranmisiones en vivo que se encontr
 
 Tiene un algortimo que aprende de tus intereses por cada intereccion que presionas este algoritmo aprende de ti para mostraste mejores resultados tu puedes conocer los gustos de tus clientes para ofrecerles productos que les gustan.
 
+# Utilizar Sesgos cognitivos 
+
+Un sesgo cognitivo es un efecto psicológico que produce una desviación en el procesamiento mental, lo que lleva a una distorsión y tomar una decision por incomididad o satifacion.
+
+Ejemplos:
+* La mayoria de las personas suben el volumen de la tv a un numero multiplo de 5 porque genera perfeccion
+* Una pizza se corta en rebanadas iguales porque genera incomidad que los demas trozos no sean iguales
+* Los semaforos tienen un boton unutil que sirven para al presionar las personas pueden aliviar su estres
+
+
+
 
 
 
