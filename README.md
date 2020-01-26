@@ -14,6 +14,8 @@
 
 **Buena Atencion al Cliente:** Puedes utilizar **Whatsap** para que tus consumidores puedas ayudarlo a resolver sus problema un ejemplo en Chile la empresa telefonica movistar que presta servicios de internet la mayor perdida de sus clientes es porque ofrece una pesima atencion al cliente.
 
+**Ofertas:** Hacer ofertas en un **tiempo limitado** para incentivar a usar un producto para que este metodo sea rentable a largo plazo el servicio o producto debe retener al cliente para que vuelva a utilizar el mismo producto.
+
 **Redes Sociales:** Facebook y Instagram es utilizado por 8 de 10 personas de la poblacion mundial es decir puedes hacer que todo el planeta entero conozca tu producto o servicio.
 
 **Tiempo de Retenccion:** Debemos retener la mayor cantidad de tiempo a los consumidores utilizando nuestro servicio por ejemplo si tienes un videojuego debemos hacer que un jugador este la mayor cantidad de tiempo.
