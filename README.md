@@ -4,11 +4,11 @@
 
 **Imagen de Producto o Servicio:** Trata que un producto debe ser diferente al resto para que pueda ser diferenciado por el consumidor un ejemplo cuando realizas una comprar por **Aliexpress** buscas un producto y todos son iguales.
 
-**Entregar una buena experencia:** Trata que un servicio es mas caro que los demas competidores van elegirte ese servicio por la experiencia obtendran ejemplo una empresa que realiza recorridos por Francia los turistas no van a preguntar por precio del recorrido sino la bonita experiencia que va a ofrecer el viaje. 
+**Entregar una buena experencia:** Trata que un servicio es mas caro que los demas  ejemplo es una empresa que realiza recorridos por Francia los turistas no van a preguntar por precio del recorrido sino la bonita experiencia que va a ofrecer el viaje. 
 
 **Entregar Esclusividad:** Los telefonos de **Huawei** son mas baratos de que un **IPhone** se venden mucho mas aunque los dos productos hacen exactamente lo mismo aqui no se vende un telefono sino la **esclusividad** de un servicio o pruducto.
 
-**Ventajas Competitivas:** Tu vendes computadores fabricas el producto tiene un valor final de 60 dolares al invertir en mejorar la fabricacion puede reducir el valor a 45 dolares con esto puede obtener mayores beneficios al vender un producto.
+**Ventajas Competitivas:** Vendes un computador cuesta 60 dolares al invertir en mejorar la fabrica puede reducir el valor a 45 dolares con esto puede obtener mayores beneficios al vender un producto.
 
 **Nicho de Mercado:** Ahi que empezar a vender nuestros servicios a un publico reducido y centrarse en esos clientes un ejemplo es **Facebook** que era una red para los universitarios de **Hardarvard** pudieran comunicarse y luego se fue expandiendo por el resto del mundo.
 
