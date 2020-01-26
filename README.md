@@ -36,10 +36,12 @@ Tiene un algortimo que aprende de tus intereses por cada intereccion que presion
 
 Un sesgo cognitivo es un efecto psicológico que produce una desviación en el procesamiento mental, lo que lleva a una distorsión y tomar una decision por incomididad o satifacion.
 
-Ejemplos:
-* La mayoria de las personas suben el volumen de la tv a un numero multiplo de 5 porque genera perfeccion
+**Ejemplos:**
+* La mayoria de las personas suben el volumen de la tv a un numero multiplo de 5 porque son perfecionistas
 * Una pizza se corta en rebanadas iguales porque genera incomidad que los demas trozos no sean iguales
 * Los semaforos tienen un boton unutil que sirven para al presionar las personas pueden aliviar su estres
+
+
 
 
 
