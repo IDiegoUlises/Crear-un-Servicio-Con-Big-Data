@@ -2,7 +2,7 @@
 
 **Nombre Facil de Pronunciar:** Si tu nombre del servicio o producto se llama ``Service Web`` pero cambias de ideas lo llamas ```بخير شكرا``` sera dificil para el consumidor acordarse de tu nombre. 
 
-**Imagen de Producto o Servicio:** Una empresa debe tener una reputacion como la revista **washington post** tiene la reputacion de tener fuentes confiables para sus periodicos o la empresa **Tesla** de automovil tiene la reputacion de construir autos electricos.
+**Imagen de Producto o Servicio:** Una empresa debe tener una reputacion como la revista **washington post** tiene la reputacion de tener fuentes confiables para sus periodicos o la empresa **Tesla** de automovil tiene la reputacion de la fabricacion de autos electricos.
 
 **Factor Diferenciador de la competencia:** Esto es que si tienes un servicios de entregar paquetes de correo y ahi muchos competidores que son exactamente iguales debes diferenciar tu servicio como por ejemplo que ayuda en el medio ambiente, que es mas rapido la entrega de paquetes o que es de bajo coste para que que un cliente quiera utilizar un servicio del resto de los competidores.
 
