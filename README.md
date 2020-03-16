@@ -1,4 +1,4 @@
-# Como Crea un buen producto o servicio
+# Como Crea un producto o servicio
 
 **Nombre Facil de Pronunciar:** Si tu nombre del servicio o producto se llama ``Service Web`` pero cambias de ideas lo llamas ```بخير شكرا``` sera dificil para el consumidor acordarse de tu nombre. 
 
