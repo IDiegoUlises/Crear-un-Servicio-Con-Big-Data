@@ -14,7 +14,7 @@
 
 **Nicho de Mercado:** Ahi que empezar a vender nuestros servicios a un publico reducido y centrarse en esos clientes un ejemplo es **Facebook** que era una red para los universitarios de **Hardarvard** pudieran comunicarse y luego se fue expandiendo por el resto del mundo.
 
-**Buena Atencion al Cliente:** Puedes utilizar **Whatsap** para que tus consumidores puedas ayudarlo a resolver sus problema un ejemplo en Chile la empresa telefonica movistar que presta servicios de internet la mayor perdida de sus clientes es porque ofrece una pesima atencion al cliente.
+**Buena Atencion al Cliente:** Puedes utilizar **Whatsap** para que tus consumidores puedas ayudarlo a resolver fallas por el servicio un ejemplo es la empresa telefonica que presta servicios de internet la mayor perdida de sus clientes es por el enfado de sus cliente por la atencion recibida.
 
 **Ofertas de tiempo limitado:** Hacer ofertas durante un **tiempo limitado** para incentivar a usar un producto para que este metodo sea rentable a largo plazo el servicio o producto debe retener al cliente para que vuelva a utilizar el mismo producto.
 
