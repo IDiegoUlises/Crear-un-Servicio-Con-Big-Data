@@ -8,7 +8,7 @@
 
 **Entregar una buena experencia:** Trata que un servicio es mas caro que los demas  ejemplo es una empresa que realiza recorridos por Francia los turistas no van a preguntar por precio del recorrido sino la bonita experiencia que va a ofrecer el viaje. 
 
-**Entregar Esclusividad:** Los telefonos de **Huawei** son mas baratos de que un **IPhone** se venden mucho mas aunque los dos productos hacen exactamente lo mismo aqui no se vende un telefono sino la **esclusividad** de un servicio o pruducto.
+**Entregar Esclusividad:** Los telefonos de **Huawei** son mas baratos de que un **IPhone** que se venden mucho mas aunque los dos productos hacen exactamente lo mismo aqui no se vende un telefono sino la **esclusividad** de un servicio o pruducto.
 
 **Ventajas Competitivas:** Vendes un computador cuesta 60 dolares al invertir en mejorar la fabrica puede reducir el valor a 45 dolares con esto puede obtener mayores beneficios al vender un producto.
 
